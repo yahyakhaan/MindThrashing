@@ -21,11 +21,11 @@ The input to your algorithm will be
 2. For each stage input; the name of the stage, points, and time required to complete
 it (in minutes)
 3. Time you can put in to play the game (in minutes)
-4. 
+
 The output will be: Name of the stages you should play
 
-## Part a) Write an iterative algorithm using a stack to solve the above problem. Use
-your own stack class.
+## Part a) Write an iterative algorithm using a stack to solve the above problem. Use your own stack class.
+
 ## Part b) Write a recursive function to solve the above problem
 
 ## Example
